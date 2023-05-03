@@ -10,7 +10,11 @@
 - [ ] Write unit tests for all ROS packages.
 
 ### Ariel
-- [ ] Speaker extraction - implement strategies: 1. select a second of audio from the buffer, 2. insert one secind of audio with 4 seconds of silence. 3. repet with 2 seconds of audio.
+- [ ] Speaker extraction - implement strategies:
+       1. select a second of audio from the buffer 
+       2. insert one second of audio with 4 seconds of silence.
+       3. repet with 2 seconds of audio.
+       4. duplicate audio inside the buffer.
 - [ ] Experiments - record separation vs extraction
 
 ### Ohad
