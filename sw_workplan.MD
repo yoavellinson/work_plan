@@ -19,7 +19,7 @@
 - [ ] Include monitoring topics in each ROS package ([ROS Diagnostics](http://wiki.ros.org/diagnostics)) . Will be discussed on next RG1.
 - [ ] Install Severin's architecture application.
 - [ ] introduce word boosting.
-- [ ] 
+
 
 ### Ariel
 - [ ] Speaker extraction - implement strategies:
